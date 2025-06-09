@@ -14,3 +14,4 @@ If you are developing a production application, we recommend using TypeScript wi
 # StBookinaryStore_app-frontend
 
 # stbookinary-app-frontend
+# stbookinarystore-app-frontend

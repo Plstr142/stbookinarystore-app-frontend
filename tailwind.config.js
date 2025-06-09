@@ -22,6 +22,9 @@ export default {
     darkMode: "class",
   },
   plugins: [],
+  corePlugins: {
+    // fallback in case of crash
+  },
 };
 
 // module.exports = {

@@ -44,7 +44,7 @@ const UpdateBook = () => {
                 }
             });
             Swal.fire({
-                title: `<span style="color: #bcc4a1;">Book Updated/span>`,
+                title: `<span style="color: #bcc4a1;">Book Updated</span>`,
                 text: "Your book is updated successfully!",
                 icon: "success",
                 iconColor: "#808570",

@@ -1,7 +1,7 @@
 // getBaseUrl
 const getBaseUrl = () => {
-  // port รันเดิม "http://localhost:5000"
-  return "https://st-bookinary-store-app-backend.vercel.app";
+  // port รันเดิม
+  return "http://localhost:5000";
 };
 
 export default getBaseUrl;

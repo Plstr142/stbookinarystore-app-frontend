@@ -1,0 +1,20 @@
+@tailwind utilities;
+
+@layer utilities {
+  @media (min-width: 1px) (max-width: 320px) {
+    .box-s-my-x {
+      margin-x: 0px;
+    }
+    .box-s-my-y {
+      margin-y: 0px;
+    }
+
+    .box-s-rounded {
+      border-radius: none;
+    }
+
+    .box-s-mx-mx {
+      margin-x: 8px;
+    }
+  }
+}

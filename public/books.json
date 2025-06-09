@@ -1,0 +1,222 @@
+[
+  {
+    "_id": 1,
+    "title": "The Road to React",
+    "description": "The Road to React (2025 Edition) is a hands on, beginner friendly guide to mastering React 19 with Hooks and optional TypeScript—teaching you how to build and deploy real world applications from scratch with clear explanations, best practices, and always up to date content.",
+    "category": "programming",
+    "trending": true,
+    "coverImage": "TheRoadtoReact.jpg",
+    "oldPrice": 22.58,
+    "newPrice": 21.99,
+    "qty": 1
+  },
+  {
+    "_id": 2,
+    "title": "The Pep Revolution",
+    "description": "The only authorised, insider account of Pep Guardiola’s record breaking reign at Manchester City an essential read on his leadership, tactics, and journey to Premier League greatness.",
+    "category": "sport",
+    "trending": true,
+    "coverImage": "ThePepRevolution.jpg",
+    "oldPrice": 12.99,
+    "newPrice": 11.99,
+    "qty": 1
+  },
+  {
+    "_id": 3,
+    "title": "Nagelsmann Tactital",
+    "description": "Explore the innovative tactics of Julian Nagelsmann through detailed analysis, full color images, and videos uncover his dynamic formations, in-game adaptations, and strategic approach to every phase of play.",
+    "category": "sport",
+    "trending": true,
+    "coverImage": "NagelsmannTactital.jpg",
+    "oldPrice": 25.9,
+    "newPrice": 24.85,
+    "qty": 1
+  },
+  {
+    "_id": 4,
+    "title": "Python Crash Course",
+    "description": "Learn Python fast by building real world games, data apps, and websites with the world’s bestselling Python book.",
+    "category": "programming",
+    "trending": false,
+    "coverImage": "PythonCrashCourse.jpg",
+    "oldPrice": 37.64,
+    "newPrice": 35.19,
+    "qty": 1
+  },
+  {
+    "_id": 5,
+    "title": "When the Circus Leaves Town",
+    "description": "A powerful exploration of what’s lost and gained when football clubs leave their historic homes—Dave Proudlove uncovers the emotional, cultural, and urban impact of relocations across the UK.",
+    "category": "sport",
+    "trending": true,
+    "coverImage": "WhentheCircusLeavesTown.jpg",
+    "oldPrice": 16.99,
+    "newPrice": 14.87,
+    "qty": 1
+  },
+  {
+    "_id": 6,
+    "title": "The Godfather",
+    "description": "A modern classic and the inspiration for the greatest crime film of all time, The Godfather is a gripping tale of power, loyalty, and betrayal in 1940s America, as the Corleone family fights to survive in a world of crime and shifting allegiances.",
+    "category": "fiction",
+    "trending": false,
+    "coverImage": "TheGodfather.jpg",
+    "oldPrice": 9.99,
+    "newPrice": 8.17,
+    "qty": 1
+  },
+  {
+    "_id": 7,
+    "title": "A Dictionary of Computer Science",
+    "description": "The most up to date and accessible guide to computing, this dictionary offers 6,500+ clear, jargon-free definitions—ideal for students, professionals, and anyone using computers.",
+    "category": "nonfiction",
+    "trending": true,
+    "coverImage": "ADictionaryofComputerScience.jpg",
+    "oldPrice": 14.99,
+    "newPrice": 13.99,
+    "qty": 1
+  },
+  {
+    "_id": 8,
+    "title": "I Am Pilgrim",
+    "description": "Pilgrim, a former spy and forensic expert, is pulled from retirement when a murder mimics his own textbook sparking a global hunt to stop a faceless terrorist from unleashing mass destruction in this gripping international thriller.",
+    "category": "fiction",
+    "trending": true,
+    "coverImage": "IAmPilgrim.jpg",
+    "oldPrice": 10.99,
+    "newPrice": 8.99,
+    "qty": 1
+  },
+  {
+    "_id": 9,
+    "title": "How to Calculate Quickly",
+    "description": "Packed with over 8,000 problems and solutions, this classic 1945 guide teaches powerful mental math techniques addition, subtraction, multiplication, division, and shortcuts for faster, smarter calculating.",
+    "category": "maths",
+    "trending": false,
+    "coverImage": "HowtoCalculateQuickly.jpg",
+    "oldPrice": 8.49,
+    "newPrice": 9.19,
+    "qty": 1
+  },
+  {
+    "_id": 10,
+    "title": "Gardens Of The Moon",
+    "description": "Bled dry by endless war and dark magic, the Malazan Empire teeters on the edge as Sergeant Whiskeyjack, sorceress Tattersail, and the last Free City face deadly forces and divine schemes in this epic, groundbreaking fantasy adventure.",
+    "category": "fiction",
+    "trending": true,
+    "coverImage": "GardensOfTheMoon.jpg",
+    "oldPrice": 9.99,
+    "newPrice": 9.29,
+    "qty": 1
+  },
+  {
+    "_id": 11,
+    "title": "The Once and Future King",
+    "description": "A beautiful paperback edition of T.H. White’s timeless retelling of King Arthur’s legend, combining all five volumes into one classic tale of Camelot, knights, magic, and enduring fantasy.",
+    "category": "fiction",
+    "trending": true,
+    "coverImage": "TheOnceandFutureKing.jpg",
+    "oldPrice": 12.99,
+    "newPrice": 11.89,
+    "qty": 1
+  },
+  {
+    "_id": 12,
+    "title": "Python Beginner's Guide to Artificial Intelligence",
+    "description": "Master practical AI with real world projects using TensorFlow and Python build intelligent systems, apply deep learning to real industry challenges, and create smart, scalable solutions with hands on case studies.",
+    "category": "programming",
+    "trending": true,
+    "coverImage": "PythonBeginner'sGuidetoArtificialIntelligence.jpg",
+    "oldPrice": 34.25,
+    "newPrice": 35.24,
+    "qty": 1
+  },
+  {
+    "_id": 13,
+    "title": "If Then",
+    "description": "In If Then, Jill Lepore uncovers the forgotten story of the Simulmatics Corporation 1950s pioneers of data mining and behavior prediction revealing how their “People Machine” shaped modern tech, politics, and the algorithm driven world we live in today.",
+    "category": "nonfiction",
+    "trending": true,
+    "coverImage": "IfThen.jpg",
+    "oldPrice": 10.99,
+    "newPrice": 10.45,
+    "qty": 1
+  },
+  {
+    "_id": 14,
+    "title": "The End of the Affair",
+    "description": "Set during the London Blitz, this gripping tale follows Maurice Bendrix’s obsessive pursuit of Sarah after she abruptly ends their love, reigniting passion and jealousy years later.",
+    "category": "fiction",
+    "trending": false,
+    "coverImage": "TheEndoftheAffair.jpg",
+    "oldPrice": 9.99,
+    "newPrice": 10.24,
+    "qty": 1
+  },
+  {
+    "_id": 15,
+    "title": "Machine Learning, revised and updated edition",
+    "description": "This concise MIT Press guide offers an accessible, non-technical introduction to machine learning—covering its evolution, key algorithms, real world applications, and pressing issues like bias, privacy, and fairness in AI.",
+    "category": "nonfiction",
+    "trending": false,
+    "coverImage": "MachineLearningrevisedandupdatededition.jpg",
+    "oldPrice": 14.99,
+    "newPrice": 15.89,
+    "qty": 1
+  },
+  {
+    "_id": 16,
+    "title": "Python Advanced Guide to Artificial Intelligence",
+    "description": "Master advanced machine learning and deep learning with TensorFlow and Keras build, deploy, and scale intelligent models for real world tasks like image recognition, object detection, and AI driven decision making.",
+    "category": "programming",
+    "trending": false,
+    "coverImage": "PythonAdvancedGuidetoArtificialIntelligence.jpg",
+    "oldPrice": 36.81,
+    "newPrice": 37.68,
+    "qty": 1
+  },
+  {
+    "_id": 17,
+    "title": "Towards Higher Mathematics",
+    "description": "With over 1,500 graded exercises, this comprehensive resource helps students bridge the gap to university level maths, offering clear explanations, key proofs, and historical context using accessible sixth form language.",
+    "category": "maths",
+    "trending": true,
+    "coverImage": "TowardsHigherMathematics.jpg",
+    "oldPrice": 36.0,
+    "newPrice": 37.24,
+    "qty": 1
+  },
+  {
+    "_id": 18,
+    "title": "Mastering Node.js Web Development",
+    "description": "Master Node.js by building and deploying high performance, full featured server-side applications—learn HTTP handling, RESTful APIs, database integration, authentication, and more with real world examples and practical projects.",
+    "category": "programming",
+    "trending": true,
+    "coverImage": "MasteringNodejsWebDevelopment.jpg",
+    "oldPrice": 27.1,
+    "newPrice": 27.89,
+    "qty": 1
+  },
+  {
+    "_id": 19,
+    "title": "Math Tools",
+    "description": "Bringing maths to life through 500+ real world applications and 600 illustrations, Math Tools is a visually rich, accessible guide that connects algebra, calculus, and more to fields like science, music, and astronomy ideal for students, teachers, and curious minds alike.",
+    "category": "maths",
+    "trending": true,
+    "coverImage": "MathTools.jpg",
+    "oldPrice": 64.99,
+    "newPrice": 64.08,
+    "qty": 1
+  },
+  {
+    "_id": 20,
+    "title": "Full Stack FastAPI, React, and MongoDB",
+    "description": "Build modern, production ready web apps with the powerful FARM stack of FastAPI, React, and MongoDB master full stack development, integrate AI like ChatGPT, and future proof your skills with hands on projects and Next.js 14.",
+    "category": "programming",
+    "trending": false,
+    "coverImage": "FullStackFastAPIReactandMongoDB.jpg",
+    "oldPrice": 53.46,
+    "newPrice": 52.46,
+    "qty": 1
+  }
+]

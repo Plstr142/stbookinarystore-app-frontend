@@ -3,8 +3,9 @@ import { useForm } from 'react-hook-form'
 import { motion } from "framer-motion";
 import axios from "axios"
 import { config } from '@react-spring/web';
-import getBaseUrl from '../utils/baseUrl';
+
 import { useNavigate } from 'react-router-dom';
+import getBaseUrl from '../utils/baseURL';
 
 const AdminLogin = () => {
 

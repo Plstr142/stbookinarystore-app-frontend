@@ -7,7 +7,8 @@ import { useFetchBookByIdQuery, useUpdateBookMutation } from '../../../redux/fea
 import Loading from '../../../components/Loading'
 import Swal from 'sweetalert2'
 import axios from 'axios'
-import getBaseUrl from '../../../utils/baseUrl'
+import getBaseUrl from '../../../utils/baseURL'
+
 
 const UpdateBook = () => {
     const { id } = useParams();

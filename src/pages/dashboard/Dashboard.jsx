@@ -2,9 +2,10 @@ import axios from 'axios';
 import React, { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom';
 import Loading from '../../components/Loading';
-import getBaseUrl from '../../utils/baseUrl';
+
 import { MdIncompleteCircle, MdOutlineManageHistory } from "react-icons/md";
 import RevenueChart from './RevenueChart';
+import getBaseUrl from '../../utils/baseURL';
 
 
 const Dashboard = () => {
